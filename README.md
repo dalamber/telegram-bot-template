@@ -7,7 +7,8 @@ This is a template project using the python-telegram-bot library and utilizing D
 2. Rename the `.env.example` file to `.env`
 3. Create a new bot using the BotFather on Telegram
 4. Copy the token and paste it in the `.env` file
-6. Run the bot using Docker
+5. Run the bot using Docker
+
 ```bash
 docker-compose up --build --detach
 ```
